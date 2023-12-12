@@ -5,7 +5,7 @@
 # Sorting Visualizer
 To demonstrate the working of different types of sorting
 <br />
-[Link to the project](https://sorting-visualizer-kaustubh.netlify.app/)
+[Link to the project](https://farooq-sorting-visualiser.netlify.app/)
 
 # Available Sorting Algorithms
 + Bubble Sort
@@ -20,11 +20,7 @@ To demonstrate the working of different types of sorting
 + Radix Sort
 
 # How to use the visualizer
-+ If you just want to see the demo then [Click here](https://sorting-visualizer-kaustubh.netlify.app/)
-+ If you want to see the code and improve it by your local computer then 
-    - ```git clone https://github.com/kaustubh-vats/sorting-visualizer.git``` 
-    - Start local server in the clonned folder
-    - Open localhost in your browser
++ If you just want to see the demo then [Click here](https://farooq-sorting-visualiser.netlify.app/)
 
 # Screenshots
 ## Desktop View
