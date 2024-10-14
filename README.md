@@ -22,11 +22,5 @@ To demonstrate the working of different types of sorting
 # How to use the visualizer
 + If you just want to see the demo then [Click here](https://farooq-sorting-visualiser.netlify.app/)
 
-# Screenshots
-## Desktop View
-![Desktop View](https://raw.githubusercontent.com/kaustubh-vats/sorting-visualizer/main/screenshots/2.jpeg)
-## Mobile View
-![Mobile View](https://raw.githubusercontent.com/kaustubh-vats/sorting-visualizer/main/screenshots/3.jpeg)
-
 # Declaration
 ## You can add modify this project for improvements but don't harm any database or any other things which might cause problems
